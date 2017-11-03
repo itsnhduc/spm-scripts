@@ -1,0 +1,1 @@
+cd $HOME/Projects/spm-api && yarn start
